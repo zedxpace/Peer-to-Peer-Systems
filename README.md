@@ -17,5 +17,8 @@ Please refer to below table to understand the Peer To Peer systems.</br>
       <tr>
             <td>2. <a href="https://www.codexpace.in/2023/10/client-server-and-p2p-networking.html">Client-Server To Peer-to-Peer Systems</a></td>
         </tr>
+            <tr>
+            <td>2. <a href="https://www.codexpace.in/2023/10/structured-peer-to-peer-overlay.html">Structured Peer-to-Peer Systems</a></td>
+        </tr>
   </tbody>
 </table>
